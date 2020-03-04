@@ -9,8 +9,8 @@ namespace ConsoleApplication1
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hellol in c# V1");
+	{   
+            Console.WriteLine("Hellol in c# V22");
             Console.ReadLine();
         }
     }
